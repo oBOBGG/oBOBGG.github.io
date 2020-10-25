@@ -1,0 +1,21 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(basemod.png);
+}
+
+.ds4.white .button {
+    background-image: url(face.png);
+}
+
+
+.ds4.white .stick {
+    background-image: url(sticks.png);
+}
+
+
+.ds4.white .face {
+    background-image: url(ps4-white-assets/dpad.svgz);
+}
+
+
+/*END PS4 White Controller Styling*/
